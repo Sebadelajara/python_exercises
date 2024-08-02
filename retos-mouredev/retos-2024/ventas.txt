@@ -1,0 +1,3 @@
+huevos, 12, 300
+pan, 10, 150
+platanos, 10, 400
